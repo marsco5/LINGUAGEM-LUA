@@ -1,5 +1,5 @@
 # SEMINARIO LINGUAGEM LUA
-### nome: Adenilson Silva dos santos
+### nome: Adenilson Silva dos santos e Marcos Roberto da Silva
 ### Turma: LNPG - 2º Periodo
 ### professor: Ivo Calado
 #
